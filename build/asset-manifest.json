@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/metroMendizfrontend/static/css/main.7eee306d.css",
+    "main.js": "/metroMendizfrontend/static/js/main.c9f2220f.js",
+    "static/js/453.ed3810f9.chunk.js": "/metroMendizfrontend/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/metroMendizfrontend/index.html",
+    "main.7eee306d.css.map": "/metroMendizfrontend/static/css/main.7eee306d.css.map",
+    "main.c9f2220f.js.map": "/metroMendizfrontend/static/js/main.c9f2220f.js.map",
+    "453.ed3810f9.chunk.js.map": "/metroMendizfrontend/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eee306d.css",
+    "static/js/main.c9f2220f.js"
+  ]
+}
